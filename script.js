@@ -29,8 +29,8 @@ let travel_diaries = {
     germany: [
         'images/germany1.JPG',
         'images/germany2.JPG',
-        'images/germany3.JPG',
-        'images/germany4.JPG',
+        'images/germany3.jpg',
+        'images/germany4.jpg',
         'images/germany5.JPG',
         'images/germany6.JPG',
     ],
